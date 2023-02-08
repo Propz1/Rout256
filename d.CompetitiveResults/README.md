@@ -33,11 +33,11 @@ The first line contains an integer t (1≤t≤1000) — the number of input data
 
 The sets of input data in the test are independent. They do not affect each other in any way.
 
-The first line of each input data set contains an integer n (1≤n≤2⋅105) — the number of athletes.
+The first line of each input data set contains an integer n (1≤n≤200000) — the number of athletes.
 
-The second line of the set contains a sequence of integers t1,t2,...,tn (1≤ti≤109), where ti is the time in seconds for which the i—th athlete ran the distance.
+The second line of the set contains a sequence of integers t1,t2,...,tn (1≤ti≤1000000000), where ti is the time in seconds for which the i—th athlete ran the distance.
 
-The sum of the values of n for all sets of test input data does not exceed 2*105.
+The sum of the values of n for all sets of test input data does not exceed 200000.
 
 Output data
 For each set of input data, output n positive numbers r1,r2,...,rn, where ri is the place of the i—th athlete.
