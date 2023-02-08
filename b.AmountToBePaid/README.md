@@ -19,9 +19,9 @@ Incomplete solutions to this problem (for example, insufficiently effective) can
 
 Input data
 
-The first line contains an integer t (1≤t≤100000) — the number of input data sets.
+The first line contains an integer t (1≤t≤10000) — the number of input data sets.
 
-Further sets of input data are recorded. Each begins with a line that contains n (1≤n≤2000000) — the number of purchased items. The next line contains their prices p1,p2,...,pn (1≤pi≤10000). If the prices of two products are the same, then we must assume that they are the same product.
+Further sets of input data are recorded. Each begins with a line that contains n (1≤n≤200000) — the number of purchased items. The next line contains their prices p1,p2,...,pn (1≤pi≤10000). If the prices of two products are the same, then we must assume that they are the same product.
 
 It is guaranteed that the sum of the values for all tests does not exceed 200000.
 
